@@ -1,1 +1,2 @@
-# moodle-block_dailyquizchallenge
+# Daily Quiz Challenge Plugin
+Moodle block plugin.
