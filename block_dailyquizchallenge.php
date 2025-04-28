@@ -42,6 +42,9 @@ class block_dailyquizchallenge extends block_base {
             ]);
         }
 
+        // ans->message
+        $html .= html_writer::tag('div', '', ['class' => 'dailyquiz-message']);
+
         $html .= html_writer::end_div();
         
         $this->content->text = $html;

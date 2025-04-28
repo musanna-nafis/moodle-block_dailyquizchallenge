@@ -58,3 +58,19 @@
         width: 90%;
     }
 }
+
+.dailyquiz-message {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.correct {
+    color: green;
+}
+
+.wrong {
+    color: red;
+}
+
+
